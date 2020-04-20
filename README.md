@@ -1,4 +1,4 @@
-# Functions #1
+# Functions 
 
 
 ### Function: group of statements within  a program that perform as specific task
